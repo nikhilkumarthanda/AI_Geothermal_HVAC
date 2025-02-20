@@ -11,4 +11,4 @@ This project integrates **AI-based load prediction** with **geothermal heat reje
 - View **energy savings, cost impact, and system efficiency**.  
 
 ## Contributors  
-- [Your Name]  
+Nikhil Kumar Thanda
